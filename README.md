@@ -16,7 +16,7 @@ Claude skills that work from a canonical memory stored in [Relinkia](https://rel
 
 **claude.ai**: add the skill from your settings.
 
-Relinkia: create a free account at https://relinkia.com, then connect its MCP server to Claude (see the docs).
+Relinkia: create a free account at https://relinkia.com, then connect its MCP server to Claude (see the docs at https://www.relinkia.com/docs/acquisition-modes/mcp-server/).
 
 Each skill's own README says whether it has a fallback mode without Relinkia.
 
